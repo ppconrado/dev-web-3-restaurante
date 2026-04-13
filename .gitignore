@@ -1,0 +1,13 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+/generated/prisma
+
+# Frontend build and local env artifacts
+frontend-restaurante/.next
+frontend-restaurante/.env*
+
+# Migration safety backups
+frontend-restaurante/.git.frontend-backup
+frontend-restaurante-history.bundle
