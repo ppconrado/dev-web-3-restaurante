@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <main className="app-shell">
       <header style={{ marginBottom: 20 }}>
-        <h1 className="hero-title">Painel do Garcom</h1>
+        <h1 className="hero-title">Painel do Garçom</h1>
         <p className="hero-subtitle">
           Registre pedidos, acompanhe os itens em preparo e envie para a
           cozinha.
